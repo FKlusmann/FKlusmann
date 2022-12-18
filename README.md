@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FKlusmann
 - 👀 I’m interested in finding gpsPhoto or a replacement. 
-- 🌱 I’m currently learning old softmare does not work well with new µ$oft operating systems.
+- 🌱 I’m currently learning old software does not work well with new µ$oft operating systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email FKlusmann - at - aol.com
 
